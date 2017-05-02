@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">NewsStarterApp</string>
+    <string name="news">News</string>
+    <string name="news_details">News Details</string>
+    <string name="comments">Comments</string>
+    <string name="add">Add</string>
+    <string name="post_comment">Post Comment</string>
+    <string name="your_message">Your Message</string>
+    <string name="your_name">Your Name</string>
+
 </resources>
